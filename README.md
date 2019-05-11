@@ -1,4 +1,4 @@
-# Swatchy
+# Swatchyy
 
 ![Master Build Status](https://travis-ci.com/SkinnyPeteTheGiraffe/swatchyy.svg?branch=master)
 
