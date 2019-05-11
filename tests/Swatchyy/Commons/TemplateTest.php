@@ -204,7 +204,7 @@ class TemplateTest extends SwatchyyTestCase
 
     public function getFixtureTemplatePath()
     {
-        return dirname(__DIR__) . '/../facades/template.tpl.php';
+        return dirname(__DIR__) . '/../Facades/template.tpl.php';
     }
 
     public function removeNewLineAtEOF($string)
