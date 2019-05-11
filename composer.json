@@ -1,0 +1,27 @@
+{
+  "name": "matik/swatchyy",
+  "description": "A basic foundational structure providing core functionality for the Matik Wordpress theme project.",
+  "keywords": ["matik", "swatchyy", "wordpress"],
+  "license": "GPL2",
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=7.0"
+  },
+  "require-dev": {
+    "antecedent/patchwork": "^2.1.8",
+    "brain/monkey": "^2.2.1",
+    "mockery/mockery": "^1.2.2",
+    "phpunit/phpunit": "^8.1.4",
+    "php-coveralls/php-coveralls": "^2.1.0",
+    "php-mock/php-mock-phpunit": "^2.3.0",
+    "symfony/http-kernel": "^4.2.8"
+  },
+  "suggest": {
+
+  },
+  "autoload": {
+    "psr-4": {
+      "Matik\\Swatchyy\\": "src/Swatchyy/"
+    }
+  }
+}
