@@ -1,7 +1,7 @@
 
 <?php
 /*
-Plugin Name: matik/swatchyy
+Plugin Name: matik-swatchyy
 Plugin URI: https://bobbyplunkett.com/wordpress/plugins/swatchyy
 Description: A basic foundational structure providing functionality for the Matik Wordpress theme project.
 Version: 3.0.0-dev
